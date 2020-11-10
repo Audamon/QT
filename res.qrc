@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>Sprites/Background/espaço.jpg</file>
+        <file>Sprites/Bullets/Lasers.png</file>
+        <file>Sprites/Ship/Ship.png</file>
+        <file>Sprites/Bullets/Bullet.png</file>
+        <file>Sprites/Enemies/Enemy1.png</file>
+        <file>Sprites/Enemies/explosion1.png</file>
+        <file>Sprites/Enemies/explosion2.png</file>
+        <file>Sprites/Enemies/explosion3.png</file>
+        <file>Sprites/Enemies/explosion4.png</file>
+        <file>Sprites/Enemies/explosion5.png</file>
+        <file>Sprites/Enemies/explosion6.png</file>
+    </qresource>
+    <qresource prefix="/sounds">
+        <file>sounds/8bit_bomb_explosion.wav</file>
+        <file>sounds/Chunky Explosion.mp3</file>
+        <file>sounds/Hall of the Mountain King.mp3</file>
+        <file>sounds/Laser.mp3</file>
+        <file>sounds/MyVeryOwnDeadShip.ogg</file>
+        <file>sounds/Orbital Colossus.mp3</file>
+        <file>sounds/The Offspring - Hit that.mp3</file>
+        <file>sounds/through space.mp3</file>
+        <file>sounds/SpaceShipShooting/Plasmabellshot.mp3</file>
+        <file>sounds/space_ship.mp3</file>
+    </qresource>
+</RCC>
